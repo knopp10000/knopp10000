@@ -1,16 +1,33 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%20There!&fontSize=90&theme=tokyonight)
+## 👨🏻‍💻  A Little Bit About Me and My Interests
 
-<!--
-**knopp10000/knopp10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Karl Gustafsson
+Pronouns: He/Him
+located_in: Stockholm, Sweden 🇸🇪
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer",
+    "Bachelor's in Computer and Systems Design",
+  ]
+company: Pagero
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX",
+    "Creative Coding",
+    "Pro Bono"
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "Intern - Automated UI testing in Swift",
+  ]
+  
+currently_learning: ["ZIO, and React"]
+2025 Goals: ["Learn ZIO."]
+hobbies: ["Hiking", "Surfing", "Japan", "Art", "Theater"]
+motto: Let's make the World a better place!
+```
